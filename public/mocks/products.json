@@ -1,0 +1,54 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "productName": "Schezwan Egg Noodles",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "productName": "Peri Peri Egg Noodles",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "productName": "Stir Egg Fry Udon Noodles",
+      "price": "100"
+    },
+    {
+      "id": 4,
+      "productName": "Thai style Noodles",
+      "price": "100"
+    },
+    {
+      "id": 5,
+      "productName": "Chinese Prawn Speghethi",
+      "price": "100"
+    },
+    {
+      "id": 6,
+      "productName": "Japnese Soba Noodles",
+      "price": "100"
+    },
+    {
+      "id": 7,
+      "productName": "Chilli garlic Noodles",
+      "price": "100"
+    },
+    {
+      "id": 8,
+      "productName": "Indian style Noodles",
+      "price": "100"
+    },
+    {
+      "id": 9,
+      "productName": "Nestle maggi Noodles",
+      "price": "100"
+    },
+    {
+      "id": 10,
+      "productName": "yippe Noodles",
+      "price": "100"
+    }
+  ]
+}
