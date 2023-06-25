@@ -1,17 +1,13 @@
 import React from "react";
 import CartItem from "../Cards/CartItem";
+import { useCart } from "../../ContextApi/CartContext";
 
-export default function Cart({ data = [], handleQuantity = () => {} }) {
+export default function Cart(props) {
+  const { cart = [] } = useCart();
   return (
     <div className="app-cart-container">
-      {data.length > 0 &&
-        data.map((d, i) => (
-          <CartItem
-            data={d}
-            key={`cart-item-${i}`}
-            handleQuantity={handleQuantity}
-          />
-        ))}
+      {cart.length > 0 &&
+        cart.map((d, i) => <CartItem data={d} key={`cart-item-${i}`} />)}
     </div>
   );
 }

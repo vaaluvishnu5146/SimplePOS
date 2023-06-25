@@ -91,6 +91,11 @@ p {
       border-radius: 10px;
       cursor: pointer;
     }
+
+    > button:disabled {
+      background: grey;
+      color: black;
+    }
   }
 }
 

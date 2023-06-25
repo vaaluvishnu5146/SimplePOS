@@ -1,6 +1,8 @@
 import React from "react";
+import { useCart } from "../../ContextApi/CartContext";
 
-export default function CartItem({ data = {}, handleQuantity = () => {} }) {
+export default function CartItem({ data = {} }) {
+  const { handleQuantity = () => {} } = useCart();
   return (
     <div className="cart-item">
       <div className="product-details">

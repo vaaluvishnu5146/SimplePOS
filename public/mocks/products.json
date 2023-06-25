@@ -8,7 +8,8 @@
     {
       "id": 2,
       "productName": "Peri Peri Egg Noodles",
-      "price": "100"
+      "price": "100",
+      "image": "https://static.vecteezy.com/system/resources/previews/024/108/768/original/tasty-noodles-bowl-isolated-on-transparent-background-png.png"
     },
     {
       "id": 3,
@@ -18,7 +19,8 @@
     {
       "id": 4,
       "productName": "Thai style Noodles",
-      "price": "100"
+      "price": "100",
+      "image": "https://static.vecteezy.com/system/resources/previews/024/108/768/original/tasty-noodles-bowl-isolated-on-transparent-background-png.png"
     },
     {
       "id": 5,
@@ -28,7 +30,8 @@
     {
       "id": 6,
       "productName": "Japnese Soba Noodles",
-      "price": "100"
+      "price": "100",
+      "image": "https://static.vecteezy.com/system/resources/previews/024/108/768/original/tasty-noodles-bowl-isolated-on-transparent-background-png.png"
     },
     {
       "id": 7,
@@ -43,12 +46,14 @@
     {
       "id": 9,
       "productName": "Nestle maggi Noodles",
-      "price": "100"
+      "price": "100",
+      "image": "https://static.vecteezy.com/system/resources/previews/024/108/768/original/tasty-noodles-bowl-isolated-on-transparent-background-png.png"
     },
     {
       "id": 10,
       "productName": "yippe Noodles",
-      "price": "100"
+      "price": "100",
+      "image": "https://static.vecteezy.com/system/resources/previews/024/108/768/original/tasty-noodles-bowl-isolated-on-transparent-background-png.png"
     }
   ]
 }
